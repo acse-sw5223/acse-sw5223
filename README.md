@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Research
 - Working on early Alzheimer's Disease prediction with ADNI dataset at [Information Fusion](https://groups.cs.umass.edu/infofusion/home/) lab (Research Assistant funded by NIH).
 - Also working at [Sequence Analysis and Genomics (SAGE)](https://sage.cs.umass.edu/) lab. Build Machine Learning models with information theory to improve our ability to predict tuberculosis's molecular properties, helping develop antibiotics against tuberculosis.
-- Exploring Machine Learning, Computer Vision, Multimodal.
+- Research interests: Machine Learning, Computer Vision, Multimodal Learning.
 
 ---
 
@@ -30,4 +30,4 @@ Python, LaTex...
 ---
 
 ### Contact
-[🎓](https://scholar.google.com/citations?user=gXR51yIAAAAJ&hl=en) <span style="margin-left:500px;">[✉️](mailto:shiyun.wa23@imperial.ac.uk)</span> <span style="margin-left:500px;">[Personal Website](https://acse-sw5223.github.io/)</span>
+[🎓](https://scholar.google.com/citations?user=gXR51yIAAAAJ&hl=en) <span style="margin-left:500px;">[✉️](mailto:swa@umass.edu)</span> <span style="margin-left:500px;">[Personal Website](https://acse-sw5223.github.io/)</span>
